@@ -1,0 +1,16 @@
+*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/Info.plist
+!/build.sh
+!/Resources/
+!/Resources/Lshot.icns
+!/Sources/
+!/Sources/main.swift
+!/Sources/Stitcher.swift
+!/Sources/PNGExport.swift
+!/Windows/
+!/Windows/go.mod
+!/Windows/main_windows.go
+!/Windows/stitch.go
